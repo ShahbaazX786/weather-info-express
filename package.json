@@ -1,0 +1,24 @@
+{
+  "name": "weather-info-express",
+  "version": "1.0.0",
+  "description": "Get weather info using api and express server",
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahbaazX786/weather-info-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahbaazX786/weather-info-express/issues"
+  },
+  "homepage": "https://github.com/ShahbaazX786/weather-info-express#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
